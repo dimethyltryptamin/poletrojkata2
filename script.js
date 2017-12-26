@@ -8,5 +8,5 @@ getTriangleArea = (a,h) => {
 console.log(getTriangleArea(10,6));
 
 let triangle1Area = getTriangleArea(10,16);
-let triangle1Area = getTriangleArea(4,8);
-let triangle1Area = getTriangleArea(3,6);
+let triangle2Area = getTriangleArea(4,8);
+let triangle3Area = getTriangleArea(3,6);
