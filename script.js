@@ -5,4 +5,8 @@ getTriangleArea = (a,h) => {
     return a*h/2;
   } 
 }
-console.log(getTriangleArea(3,11));
+console.log(getTriangleArea(10,6));
+
+let triangle1Area = getTriangleArea(10,16);
+let triangle1Area = getTriangleArea(4,8);
+let triangle1Area = getTriangleArea(3,6);
